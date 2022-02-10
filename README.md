@@ -20,8 +20,6 @@ In order to make a connection firstly it is required to install docker desktop [
 
 
 
-
-
 After the successful installation open cmd on windows or terminal on Mac and type </br>
 </br>
 ```
