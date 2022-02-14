@@ -7,6 +7,7 @@
  
  
  
+ 
 Docker: Docker is a software platform that simplifies the process of building, running, managing and distributing applications.</br>
 
 Docker Container: containers are runnable instance of an image. You can create, start, stop, move, or delete a container using Docker API or CLI.</br>
