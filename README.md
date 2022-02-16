@@ -36,6 +36,32 @@ As shown in the picture you need to get your installed version.</br>
 </br>
 
 
+After sucessfull installation of docker open the docker desktop in your system and then check the images section.</br>
+You can that there will not be any images present.</br>
+</br>
+</br>
+Open cmd on Windows or terminal on Mac and run the following command:
+</br>
+```
+docker pull amazon/aws-glue-libs:glue_libs_1.0.0_image_01
+```
+Depending on your internet speed the image will be installed into your docker.</br>
+Then after Sucessful installation goto images section in docker and check weatehr the image which is installed is visible or not.</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
