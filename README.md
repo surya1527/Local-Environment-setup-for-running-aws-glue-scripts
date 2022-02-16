@@ -33,7 +33,7 @@ docker --version
 <img width="631" alt="Screenshot 2022-02-08 at 17 41 53" src="https://user-images.githubusercontent.com/58841159/152985799-8c3468a0-0ce9-418e-a53c-ef2a38510a44.png"></br>
 </br>
 As shown in the picture you need to get your installed version.</br>
-
+</br>
 
 
 
