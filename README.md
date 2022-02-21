@@ -45,7 +45,13 @@ Open cmd on Windows or terminal on Mac and run the following command:
 docker pull amazon/aws-glue-libs:glue_libs_1.0.0_image_01
 ```
 Depending on your internet speed the image will be installed into your docker.</br>
-Then after Sucessful installation goto images section in docker and check weatehr the image which is installed is visible or not.</br>
+Then after Sucessful installation, goto images section in docker and check weatehr the image which is installed is visible or not.</br>
+You can see the installed image.</br>
+Then again go to terminal and type: </br>
+```
+docker run -itd -p 8888:8888 -p 4040:4040 -v ~/.aws:/root/.aws:ro --name glue_jupyter amazon/aws-glue-libs:glue_libs_1.0.0_image_01 /home/jupyter/jupyter_start.sh
+```
+
 
 
 
